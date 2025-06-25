@@ -1,0 +1,30 @@
+{
+    "navbar": {
+        "home": "Home",
+        "login": "Login",
+        "register": "Register",
+        "dashboard": "Dashboard",
+        "logout": "Logout"
+    },
+    "hero": {
+        "title": "Capture the wave",
+        "subtitle": "Explore and buy amazing surf photography"
+    },
+    "filters": {
+        "search": "Search by spot, photographer, date...",
+        "clear": "Clear filters"
+    },
+    "albums": {
+        "recent": "Recent Albums",
+        "view": "View Album"
+    },
+    "auth": {
+        "email": "Email address",
+        "password": "Password",
+        "confirm_password": "Confirm password",
+        "submit": "Submit",
+        "login_success": "Successfully logged in",
+        "register_success": "Account created"
+    }
+}
+  
