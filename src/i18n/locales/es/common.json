@@ -1,0 +1,30 @@
+{
+    "navbar": {
+      "home": "Inicio",
+      "login": "Iniciar sesión",
+      "register": "Registrarse",
+      "dashboard": "Panel",
+      "logout": "Cerrar sesión"
+    },
+    "hero": {
+      "title": "Captura la ola",
+      "subtitle": "Explora y compra fotografía de surf increíble"
+    },
+    "filters": {
+      "search": "Buscar por spot, fotógrafo, fecha...",
+      "clear": "Limpiar filtros"
+    },
+    "albums": {
+      "recent": "Álbumes recientes",
+      "view": "Ver álbum"
+    },
+    "auth": {
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "confirm_password": "Confirmar contraseña",
+      "submit": "Enviar",
+      "login_success": "Sesión iniciada correctamente",
+      "register_success": "Cuenta creada con éxito"
+    }
+}
+  
