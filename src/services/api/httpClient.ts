@@ -3,7 +3,7 @@ import { getAccessToken, getRefreshToken, setAccessToken } from '@/lib/auth';
 import { refreshToken } from "@/services/api/auth/auth";
 
 export const httpClient = axios.create({
-  baseURL: '/api',
+  baseURL: 'https://api-pre.surfspotted.com/api',
 });
 
 httpClient.interceptors.request.use((config) => {
